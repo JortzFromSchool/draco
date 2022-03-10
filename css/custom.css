@@ -157,3 +157,13 @@ footer {
       font-size: 1.25em;
       color: #999999; }
 
+.project-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.project-image{
+	height:auto;
+	max-width: 100px;
+}
