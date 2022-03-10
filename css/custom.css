@@ -165,5 +165,6 @@ footer {
 
 .project-image{
 	height:auto;
-	max-width: 100px;
+	max-width: 200px;
+  margin-bottom: 10px;
 }
