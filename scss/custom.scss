@@ -107,6 +107,16 @@
 	}
 }
 
+.project-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	.project-image{
+		height:fit-content;
+		width: fit-content;
+	}
+}
+
 .skills {
 	.skill-list {
 		margin-left: 0px;
